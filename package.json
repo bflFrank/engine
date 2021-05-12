@@ -1,7 +1,7 @@
 {
-  "name": "grenade bros",
+  "name": "engine",
   "version": "1.0.1",
-  "description": "GRENADE TIME.",
+  "description": "2d Engine Thing.",
   "scripts": {
     "start": "node ./app.js"
   },
